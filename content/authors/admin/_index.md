@@ -6,7 +6,7 @@ title: Francesco Ambrogi
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Student in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:

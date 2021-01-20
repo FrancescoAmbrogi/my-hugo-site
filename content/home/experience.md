@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -22,24 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Teaching Assistant
+    company: Queen's University
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Kingston (ON)
+    date_start: '2019-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Since I started my PhD I have been assigned as teaching assistant for several courses at Queen's such as:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * MECH398 Mechanical Engineering Laboratory I
+        * MECH241 Fluid Mechanics I
         
-  - title: Professor
-    company: University X
+  - title: Research Assistant
+    company: TSM Lab @ Queen's University
+    company_url: 'https://me.queensu.ca/People/Piomelli/TSMLab.html'
+    location: Kingston (ON)
+    date_start: '2019-09-01'
+    date_end: ''
+    description: Within the TSM Lab we perform Direct Numerical and Large Eddy Simulations of Turbulent Flows in different physical conditions and with several geometries. My research focuses on simulating Turbulent Boundary layers under strong pressure gradients and separated flows.
+
+  - title: Graduate Intern
+    company: University of Wisconsin-Madison
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Madison (WI)
+    date_start: '2018-09-01'
+    date_end: '2019-03-01'
+
 ---

@@ -1,5 +1,5 @@
 ---
-title: I joined the Turbulence Simulation and Modeling (TSM) Lab 
+title: I joined the Turbulence Simulation and Modelling (TSM) Lab 
 subtitle: Starting September 2019 I joined the TSM Lab at Queen's University as a Research Assistant.
 
 # Summary for listings and search engines

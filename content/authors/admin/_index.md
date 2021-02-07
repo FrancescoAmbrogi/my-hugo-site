@@ -10,6 +10,8 @@ role: PhD Student in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Turbulence Simulation and Modelling Lab
+  url: https://me.queensu.ca/People/Piomelli/TSMLab.html
 - name: Queen's University
   url: https://www.queensu.ca/
 

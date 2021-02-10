@@ -16,7 +16,7 @@ organizations:
   url: https://www.queensu.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include boundary layer theory, computational fluid dynamics, direct numerical and large eddy simulations.
+bio: My research interests include boundary layer theory, computational fluid dynamics, direct numerical and large eddy simulations of turbulent flows.
 
 # Interests to show in About widget
 interests:

@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.S in Energy and Nuclear Engineering
+  - course: M.S. in Energy and Nuclear Engineering
     institution: Alma Mater Studiorum University of Bologna
     year: 2019
   - course: B.S. in Mechanical Engineering

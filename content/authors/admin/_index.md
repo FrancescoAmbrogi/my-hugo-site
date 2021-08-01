@@ -22,7 +22,7 @@ bio: My research interests include boundary layer theory, computational fluid dy
 interests:
 - Turbulent Boundary Layers
 - Computational Fluid Dynamics
-- Flows under strong pressure gradients
+- Unsteady flow separation
 - DNS and LES
 
 # Education to show in About widget
@@ -66,6 +66,6 @@ highlight_name: false
 
 My name is Francesco Ambrogi. I am a PhD student at Queen's University, Kingston Ontario. I work in the Turbulence Simulation and Modeling (TSM) laboratory under the supervision of Prof. Ugo Piomelli. My research focuses on computational and theoretical studies of turbulent boundary layers (TBLs) under different physical conditions. More specifically, I am interested in simulating the effect of strong adverse or favourable pressure gradients on the physics of wall bounded flows.
 
-In a more personal note, I am fascinated by astronomy and I love reading (mostly fantasy books). Since August 2020 I am the Librarian of the Royal Astronomical Society of Canada (RASC) Kingston Center. I enojoy going out with my telescope or binoculars and admire the night sky. 
+In a more personal note, I am fascinated by astronomy and I love reading. Since April 2021 I am a member of the Kingston Rotaract Club. I enojoy outdoor activities and since I moved to Canada, one of my favorite hobbies is Birding. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Ambrogi_Francesco_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

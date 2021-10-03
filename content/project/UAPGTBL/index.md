@@ -44,4 +44,4 @@ Simulations are performed using a well validated code, with second order differe
 
 ![UPG-TBL](/images/upgtbl.gif)
 
-The animation shows the contours of the instantaneous  streamwise velocity  for a reduced frequency of 1 and 10 respectively. The animation clearly shows the differences between the two cases: when f is high enough the separation bubble does not have time to develop, yet the size of the separation region is comparable to a steady case. When f decreases, the extent of the separation bubble in the wall normal direction increases but the length of the separation region is  reduced compared with the steady case.
+The animation shows contours of the instantaneous streamwise velocity $u$ for a reduced frequency of 10, 1 and 0.2 respectively. The animation clearly shows the differences between the two cases: when f is high enough the separation bubble does not have time to develop, yet the size of the separation region is comparable to a steady case. When $k$ decreases, the extent of the separation bubble in the wall normal direction increases but the length of the separation region is  reduced compared with the steady case.

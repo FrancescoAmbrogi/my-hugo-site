@@ -29,10 +29,11 @@ experience:
     date_start: '2019-01-01'
     date_end: ''
     description: |2-
-        Since I started my PhD I have been assigned as teaching assistant for several courses at Queen's such as:
+        Since the beginning of my PhD I have been assigned as teaching assistant for several courses at Queen's such as:
         
         * MECH398 Mechanical Engineering Laboratory I
         * MECH241 Fluid Mechanics I
+        * MECH341 Fluid Mechanics II
         
   - title: Research Assistant
     company: TSM Lab @ Queen's University
